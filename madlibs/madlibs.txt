@@ -17,7 +17,7 @@ He ain't making it to <time of day 1>
 Band name 1
 noun 1
 body part 1
-name (male) 1
+name (male, First and Last) 1
 location 1
 verb 1
 part of day 1
